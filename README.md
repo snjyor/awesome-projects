@@ -6,6 +6,7 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[tryvoice-oss](https://github.com/AaronZ021/tryvoice-oss)|TryVoice|[tryvoice-oss](https://github.com/AaronZ021/tryvoice-oss)|尝试语音|
 |[Lean](https://github.com/QuantConnect/Lean)|Lean Algorithmic Trading Engine by QuantConnect (Python, C#)|[Lean](https://github.com/QuantConnect/Lean)|QuantConnect 精益算法交易引擎（Python、C#）|
 |[meshpad-release](https://github.com/DerKleineLi/meshpad-release)|Implementation of MeshPad: Interactive Sketch-Conditioned Artist-Reminiscent Mesh Generation and Edi...|[meshpad-release](https://github.com/DerKleineLi/meshpad-release)|MeshPad 的实现：交互式草图条件艺术家回忆网格生成和编辑...|
 |[openclaw](https://github.com/openclaw/openclaw)|Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |[openclaw](https://github.com/openclaw/openclaw)|您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞|
@@ -20,7 +21,7 @@
 |[Maestro](https://github.com/mobile-dev-inc/Maestro)|Painless E2E Automation for Mobile and Web|[Maestro](https://github.com/mobile-dev-inc/Maestro)|适用于移动和 Web 的无痛 E2E 自动化|
 |[snapai](https://github.com/betomoedano/snapai)|AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in se...|[snapai](https://github.com/betomoedano/snapai)|面向 React Native 和 Expo 开发人员的 AI 支持的图标生成 CLI。生成令人惊叹的应用程序图标...|
 |[create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp)|The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates|[create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp)|创建 Solana 应用程序的最快方法🚀 模板 👉 https://github.com/solana-foundation/templates|
-|[x402](https://github.com/coinbase/x402)|A payments protocol for the internet. Built on HTTP.|[x402](https://github.com/coinbase/x402)|互联网支付协议。基于 HTTP 构建。|
+|[x402](https://github.com/x402-foundation/x402)|A payments protocol for the internet. Built on HTTP.|[x402](https://github.com/x402-foundation/x402)|互联网支付协议。基于 HTTP 构建。|
 |[free-proxy-list](https://github.com/proxifly/free-proxy-list)|🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *|[free-proxy-list](https://github.com/proxifly/free-proxy-list)|🚀 免费 HTTP、SOCKS4 和 SOCKS5 代理列表 * 每 5 分钟更新一次 *|
 |[SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used durin...|[SecLists](https://github.com/danielmiessler/SecLists)|SecLists 是安全测试人员的伴侣。它是在...期间使用的多种类型列表的集合。|
 |[memU](https://github.com/NevaMind-AI/memU)|Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).|[memU](https://github.com/NevaMind-AI/memU)|24/7 主动代理的内存，例如 openclaw（moltbot、clawdbot）。|
@@ -55,7 +56,7 @@
 |[nsfwjs](https://github.com/infinitered/nsfwjs)|NSFW detection on the client-side via TensorFlow.js|[nsfwjs](https://github.com/infinitered/nsfwjs)|通过 TensorFlow.js 在客户端进行 NSFW 检测|
 |[EasySpider](https://github.com/NaiboWang/EasySpider)|A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：Servi...|[EasySpider](https://github.com/NaiboWang/EasySpider)|A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：Servi...|
 |[glass](https://github.com/pickle-com/glass)|Digital Mind Extension|[glass](https://github.com/pickle-com/glass)|数字思维扩展|
-|[suna](https://github.com/kortix-ai/suna)|Kortix|[suna](https://github.com/kortix-ai/suna)|皮质|
+|[suna](https://github.com/kortix-ai/suna)|The Autonomous Company Operating System|[suna](https://github.com/kortix-ai/suna)|自治公司操作系统|
 |[twitter](https://github.com/python-twitter-tools/twitter)|Python Twitter API|[twitter](https://github.com/python-twitter-tools/twitter)|Python 推特 API|
 |[gemini-balance](https://github.com/snailyp/gemini-balance)|Gemini polling proxy service （gemini轮询代理服务）|[gemini-balance](https://github.com/snailyp/gemini-balance)|Gemini polling proxy service （gemini轮询代理服务）|
 |[awesome](https://github.com/sindresorhus/awesome)|😎 Awesome lists about all kinds of interesting topics|[awesome](https://github.com/sindresorhus/awesome)|😎 关于各种有趣主题的精彩列表|
@@ -83,7 +84,6 @@
 |[i18n-ally](https://github.com/lokalise/i18n-ally)|🌍 All in one i18n extension for VS Code|[i18n-ally](https://github.com/lokalise/i18n-ally)|🌍 VS Code 的多合一 i18n 扩展|
 |[markitdown](https://github.com/microsoft/markitdown)|Python tool for converting files and office documents to Markdown.|[markitdown](https://github.com/microsoft/markitdown)|用于将文件和 Office 文档转换为 Markdown 的 Python 工具。|
 |[The-Marauders-Map](https://github.com/icochi/The-Marauders-Map)|Harry Potter and the Prisoner of Azkaban  - The Marauder's Map CSS animations|[The-Marauders-Map](https://github.com/icochi/The-Marauders-Map)|哈利·波特与阿兹卡班的囚徒 - 活点地图 CSS 动画|
-|[free-directory-boilerplate](https://github.com/javayhu/free-directory-boilerplate)|The Open Source Directory Boilerplate|[free-directory-boilerplate](https://github.com/javayhu/free-directory-boilerplate)|开源目录样板|
 |[JumpstartKit-Doc](https://github.com/hhmy27/JumpstartKit-Doc)|🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets|[JumpstartKit-Doc](https://github.com/hhmy27/JumpstartKit-Doc)|🛫 一套为被动收入打造的 iOS 应用启动模板 | A ready-to-launch iOS app template for creating passive income assets|
 |[aisuite](https://github.com/andrewyng/aisuite)|Simple, unified interface to multiple Generative AI providers |[aisuite](https://github.com/andrewyng/aisuite)|与多个生成人工智能提供商的简单、统一的接口|
 |[browser-use](https://github.com/browser-use/browser-use)|🌐 Make websites accessible for AI agents. Automate tasks online with ease.|[browser-use](https://github.com/browser-use/browser-use)|🌐 让 AI 代理可以访问网站。轻松在线自动化任务。|
@@ -102,6 +102,7 @@
 |[OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MIT and MyShell. Audio foundation model.|[OpenVoice](https://github.com/myshell-ai/OpenVoice)|MIT 和 MyShell 的即时语音克隆。音频基础模型。|
 |[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-py...|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|精彩的远程工作和资源的精选列表。灵感来自 https://github.com/vinta/awesome-py...|
 |[spiritlm](https://github.com/facebookresearch/spiritlm)|Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".|[spiritlm](https://github.com/facebookresearch/spiritlm)|论文“Spirit-LM Interleaved Spoken and Written Language Model”的推理代码。|
+|[deepface](https://github.com/serengil/deepface)|A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library...|[deepface](https://github.com/serengil/deepface)|轻量级人脸识别和面部属性分析（年龄、性别、情绪和种族）库...|
 |[jsonrepair](https://github.com/josdejong/jsonrepair)|Repair invalid JSON documents|[jsonrepair](https://github.com/josdejong/jsonrepair)|修复无效的 JSON 文档|
 |[json_repair](https://github.com/mangiucugna/json_repair)|A python module to repair invalid JSON from LLMs|[json_repair](https://github.com/mangiucugna/json_repair)|用于修复 LLM 中无效 JSON 的 python 模块|
 |[1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)|1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。|[1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)|1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。|
@@ -193,7 +194,7 @@
 |[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained mode...|[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT：开源金融大语言模型！  彻底变革 🔥 我们发布了训练模式...|
 |[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 finetuning with deepspeed and lora|[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 使用 deepspeed 和 lora 进行微调|
 |[llama-cookbook](https://github.com/meta-llama/llama-cookbook)|Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started wit...|[llama-cookbook](https://github.com/meta-llama/llama-cookbook)|欢迎来到骆驼食谱！这是您使用 Llama 进行构建的指南：开始使用...|
-|[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的 Python 异步和事件驱动框架，重点关注加密货币...|
+|[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的 Python 异步和事件驱动框架，重点关注加密货币......|
 |[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq: An All-in-One Library for Developing State-of-the-Art Sequence Understanding Models|[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq：用于开发最先进的序列理解模型的一体化库|
 |[AnimateDiff](https://github.com/guoyww/AnimateDiff)|Official implementation of AnimateDiff.|[AnimateDiff](https://github.com/guoyww/AnimateDiff)|AnimateDiff 的正式实现。|
 |[Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse)|**Professor Synapse 🧙🏾‍♂️**|[Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse)|**突触教授🧙🏾‍♂️**|
