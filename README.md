@@ -6,6 +6,11 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[career-ops](https://github.com/santifer/career-ops)|AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat...|[career-ops](https://github.com/santifer/career-ops)|基于 Claude Code 构建的人工智能求职系统。 14 种技能模式、Go 仪表板、PDF 生成、蝙蝠...|
+|[hermes-agent](https://github.com/NousResearch/hermes-agent)|The agent that grows with you|[hermes-agent](https://github.com/NousResearch/hermes-agent)|与您共同成长的代理商|
+|[OpenCLI](https://github.com/jackwener/OpenCLI)|Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, ...|[OpenCLI](https://github.com/jackwener/OpenCLI)|让任何网站和工具成为您的 CLI。通用 CLI 中心和 AI 原生运行时。改造任何网站，...|
+|[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)|Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your ...|[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)|从流行网站捕获设计系统的 DESIGN.md 文件集合。将一个放入您的...|
+|[agent-skills](https://github.com/addyosmani/agent-skills)|Production-grade engineering skills for AI coding agents.|[agent-skills](https://github.com/addyosmani/agent-skills)|AI 编码代理的生产级工程技能。|
 |[tryvoice-oss](https://github.com/AaronZ021/tryvoice-oss)|TryVoice|[tryvoice-oss](https://github.com/AaronZ021/tryvoice-oss)|尝试语音|
 |[Lean](https://github.com/QuantConnect/Lean)|Lean Algorithmic Trading Engine by QuantConnect (Python, C#)|[Lean](https://github.com/QuantConnect/Lean)|QuantConnect 精益算法交易引擎（Python、C#）|
 |[meshpad-release](https://github.com/DerKleineLi/meshpad-release)|Implementation of MeshPad: Interactive Sketch-Conditioned Artist-Reminiscent Mesh Generation and Edi...|[meshpad-release](https://github.com/DerKleineLi/meshpad-release)|MeshPad 的实现：交互式草图条件艺术家回忆网格生成和编辑...|
@@ -185,7 +190,7 @@
 |[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|WebUI extension for ControlNet|[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|ControlNet 的 WebUI 扩展|
 |[stable-diffusion-webui-manuals](https://github.com/ivon852/stable-diffusion-webui-manuals)|Stable Diffusion WebUI中文使用手冊(舊)|[stable-diffusion-webui-manuals](https://github.com/ivon852/stable-diffusion-webui-manuals)|稳定扩散WebUI中文使用手册(旧)|
 |[LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts)|A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy|[LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts)|使用 Pyside6 制作的 UI，使在 sd 脚本中训练 LoRA/LoCon 和其他 LoRA 类型模型变得容易|
-|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic tr...|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|精选的库、包、策略、书籍、博客、系统学习教程的列表...|
+|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic tr...|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|精选的库、包、策略、书籍、博客、系统化教程的列表...|
 |[ChatIE](https://github.com/cocacola-lab/ChatIE)|The online version is temporarily unavailable because we cannot afford the key. You can clone and ru...|[ChatIE](https://github.com/cocacola-lab/ChatIE)|在线版本暂时无法使用，因为我们买不起密钥。您可以克隆并运行...|
 |[WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出备份程序|[WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出备份程序|
 |[bertviz](https://github.com/jessevig/bertviz)|BertViz: Visualize Attention in Transformer Models|[bertviz](https://github.com/jessevig/bertviz)|BertViz：可视化 Transformer 模型中的注意力|
@@ -194,7 +199,7 @@
 |[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained mode...|[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT：开源金融大语言模型！  彻底变革 🔥 我们发布了训练模式...|
 |[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 finetuning with deepspeed and lora|[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 使用 deepspeed 和 lora 进行微调|
 |[llama-cookbook](https://github.com/meta-llama/llama-cookbook)|Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started wit...|[llama-cookbook](https://github.com/meta-llama/llama-cookbook)|欢迎来到骆驼食谱！这是您使用 Llama 进行构建的指南：开始使用...|
-|[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的 Python 异步和事件驱动框架，重点关注加密货币......|
+|[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的 Python 异步和事件驱动框架，重点关注加密货币...|
 |[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq: An All-in-One Library for Developing State-of-the-Art Sequence Understanding Models|[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq：用于开发最先进的序列理解模型的一体化库|
 |[AnimateDiff](https://github.com/guoyww/AnimateDiff)|Official implementation of AnimateDiff.|[AnimateDiff](https://github.com/guoyww/AnimateDiff)|AnimateDiff 的正式实现。|
 |[Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse)|**Professor Synapse 🧙🏾‍♂️**|[Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse)|**突触教授🧙🏾‍♂️**|
