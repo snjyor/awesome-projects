@@ -6,10 +6,13 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[playwright-cli](https://github.com/microsoft/playwright-cli)|CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take s...|[playwright-cli](https://github.com/microsoft/playwright-cli)|用于常见剧作家操作的 CLI。记录并生成剧作家代码，检查选择器并采取...|
+|[nuwa-skill](https://github.com/alchaincyf/nuwa-skill)|你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.|[nuwa-skill](https://github.com/alchaincyf/nuwa-skill)|你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。 Distill how anyone thinks.|
+|[gbrain](https://github.com/garrytan/gbrain)|Garry's Opinionated OpenClaw/Hermes Agent Brain|[gbrain](https://github.com/garrytan/gbrain)|加里固执己见的 OpenClaw/Hermes 特工大脑|
 |[career-ops](https://github.com/santifer/career-ops)|AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat...|[career-ops](https://github.com/santifer/career-ops)|基于 Claude Code 构建的人工智能求职系统。 14 种技能模式、Go 仪表板、PDF 生成、蝙蝠...|
 |[hermes-agent](https://github.com/NousResearch/hermes-agent)|The agent that grows with you|[hermes-agent](https://github.com/NousResearch/hermes-agent)|与您共同成长的代理商|
 |[OpenCLI](https://github.com/jackwener/OpenCLI)|Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, ...|[OpenCLI](https://github.com/jackwener/OpenCLI)|让任何网站和工具成为您的 CLI。通用 CLI 中心和 AI 原生运行时。改造任何网站，...|
-|[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)|Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your ...|[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)|从流行网站捕获设计系统的 DESIGN.md 文件集合。将一个放入您的...|
+|[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)|A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project...|[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)|DESIGN.md 文件的集合，灵感来自流行的品牌设计系统。将一个放入您的项目中...|
 |[agent-skills](https://github.com/addyosmani/agent-skills)|Production-grade engineering skills for AI coding agents.|[agent-skills](https://github.com/addyosmani/agent-skills)|AI 编码代理的生产级工程技能。|
 |[tryvoice-oss](https://github.com/AaronZ021/tryvoice-oss)|TryVoice|[tryvoice-oss](https://github.com/AaronZ021/tryvoice-oss)|尝试语音|
 |[Lean](https://github.com/QuantConnect/Lean)|Lean Algorithmic Trading Engine by QuantConnect (Python, C#)|[Lean](https://github.com/QuantConnect/Lean)|QuantConnect 精益算法交易引擎（Python、C#）|
@@ -109,7 +112,7 @@
 |[spiritlm](https://github.com/facebookresearch/spiritlm)|Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".|[spiritlm](https://github.com/facebookresearch/spiritlm)|论文“Spirit-LM Interleaved Spoken and Written Language Model”的推理代码。|
 |[deepface](https://github.com/serengil/deepface)|A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library...|[deepface](https://github.com/serengil/deepface)|轻量级人脸识别和面部属性分析（年龄、性别、情绪和种族）库...|
 |[jsonrepair](https://github.com/josdejong/jsonrepair)|Repair invalid JSON documents|[jsonrepair](https://github.com/josdejong/jsonrepair)|修复无效的 JSON 文档|
-|[json_repair](https://github.com/mangiucugna/json_repair)|A python module to repair invalid JSON from LLMs|[json_repair](https://github.com/mangiucugna/json_repair)|用于修复 LLM 中无效 JSON 的 python 模块|
+|[json_repair](https://github.com/mangiucugna/json_repair)|Repair malformed JSON from LLMs, APIs, logs, and user input in Python.|[json_repair](https://github.com/mangiucugna/json_repair)|修复来自 LLM、API、日志和 Python 中的用户输入的格式错误的 JSON。|
 |[1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)|1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。|[1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)|1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。|
 |[tradingbot](https://github.com/toupaiwang/tradingbot)|Solana Trading Bot for Telegram|[tradingbot](https://github.com/toupaiwang/tradingbot)|Telegram 的 Solana 交易机器人|
 |[zerox](https://github.com/getomni-ai/zerox)|OCR & Document Extraction using vision models|[zerox](https://github.com/getomni-ai/zerox)|使用视觉模型进行 OCR 和文档提取|
@@ -183,7 +186,7 @@
 |[Ai-learn](https://github.com/xiaochengcike/Ai-learn)|人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域|[Ai-learn](https://github.com/xiaochengcike/Ai-learn)|人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域|
 |[remote-working](https://github.com/greatghoul/remote-working)|收集整理远程工作相关的资料|[remote-working](https://github.com/greatghoul/remote-working)|收集整理远程工作相关的资料|
 |[whisper](https://github.com/openai/whisper)|Robust Speech Recognition via Large-Scale Weak Supervision|[whisper](https://github.com/openai/whisper)|通过大规模弱监督实现鲁棒语音识别|
-|[ladder](https://github.com/everywall/ladder)|Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS he...|[ladder](https://github.com/everywall/ladder)|12ft.io 的自托管替代方案。 1ft.io 使用代理阶梯绕过付费墙并删除 CORS 他...|
+|[ladder](https://github.com/everywall/ladder)|Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML|[ladder](https://github.com/everywall/ladder)|12ft.io 的自托管替代方案。和 1ft.io。用于删除 CORS 标头并修改 HTML 的代理|
 |[AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber)|AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播...|[AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber)|AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播...|
 |[exbert](https://github.com/bhoov/exbert)|A Visual Analysis Tool to Explore Learned Representations in Transformers Models|[exbert](https://github.com/bhoov/exbert)|用于探索 Transformers 模型中学习表示的可视化分析工具|
 |[openpose-editor](https://github.com/fkunn1326/openpose-editor)|Openpose Editor for AUTOMATIC1111's stable-diffusion-webui|[openpose-editor](https://github.com/fkunn1326/openpose-editor)|AUTOMATIC1111 的 stable-diffusion-webui 的 Openpose 编辑器|
@@ -252,10 +255,10 @@
 |[Skip-gram](https://github.com/zhangxiann/Skip-gram)|参数设置|[Skip-gram](https://github.com/zhangxiann/Skip-gram)|参数设置|
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)|The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in ...|[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)|ChatGPT 检索插件可让您通过在...中提出问题来轻松查找个人或工作文档。|
 |[CopilotForXcode](https://github.com/intitni/CopilotForXcode)|The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension|[CopilotForXcode](https://github.com/intitni/CopilotForXcode)|第一个 GitHub Copilot、Codeium 和 ChatGPT Xcode 源编辑器扩展|
-|[awesome-claude](https://github.com/taranjeet/awesome-claude)|An awesome list of AnthropicAI' Claude model|[awesome-claude](https://github.com/taranjeet/awesome-claude)|AnthropicAI 克劳德模型的精彩列表|
+|[awesome-claude](https://github.com/taranjeet/awesome-claude)|An awesome list of AnthropicAI' Claude model|[awesome-claude](https://github.com/taranjeet/awesome-claude)|Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.|
 |[gpt-3](https://github.com/openai/gpt-3)|GPT-3: Language Models are Few-Shot Learners|[gpt-3](https://github.com/openai/gpt-3)|GPT-3：语言模型是小样本学习者|
-|[DALL-E](https://github.com/openai/DALL-E)|PyTorch package for the discrete VAE used for DALL·E.|[DALL-E](https://github.com/openai/DALL-E)|用于 DALL·E 的离散 VAE 的 PyTorch 软件包。|
-|[openai-cookbook](https://github.com/openai/openai-cookbook)|Examples and guides for using the OpenAI API|[openai-cookbook](https://github.com/openai/openai-cookbook)|使用 OpenAI API 的示例和指南|
+|[DALL-E](https://github.com/openai/DALL-E)|PyTorch package for the discrete VAE used for DALL·E.|[DALL-E](https://github.com/openai/DALL-E)|Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.|
+|[openai-cookbook](https://github.com/openai/openai-cookbook)|Examples and guides for using the OpenAI API|[openai-cookbook](https://github.com/openai/openai-cookbook)|Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.|
 |[gpt-2](https://github.com/openai/gpt-2)|Code for the paper "Language Models are Unsupervised Multitask Learners"|[gpt-2](https://github.com/openai/gpt-2)|论文“语言模型是无监督多任务学习者”的代码|
 |[gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset)|Dataset of GPT-2 outputs for research in detection, biases, and more|[gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset)|用于检测、偏差等研究的 GPT-2 输出数据集|
 |[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)|A topic-centric list of HQ open datasets.|[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)|以主题为中心的总部开放数据集列表。|
