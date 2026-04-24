@@ -6,6 +6,7 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[OpenStore](https://github.com/XiaoChuangll/OpenStore)|OpenStore是一个专注于鸿蒙（HarmonyOS）应用发现与分享的第三方应用商店平台。它致力于为用户提供最新、最热门的鸿蒙应用，包含应用探索、专题推荐、榜单排行、应用投稿等功能。|[OpenStore](https://github.com/XiaoChuangll/OpenStore)|OpenStore是一个专注于鸿蒙（HarmonyOS）应用发现与分享的第三方应用商店平台。它致力于为用户提供最新、最热门的鸿蒙应用，包含应用探索、专题推荐、榜单排行、应用投稿等功能。|
 |[playwright-cli](https://github.com/microsoft/playwright-cli)|CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take s...|[playwright-cli](https://github.com/microsoft/playwright-cli)|用于常见剧作家操作的 CLI。记录并生成剧作家代码，检查选择器并采取...|
 |[nuwa-skill](https://github.com/alchaincyf/nuwa-skill)|你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.|[nuwa-skill](https://github.com/alchaincyf/nuwa-skill)|你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。 Distill how anyone thinks.|
 |[gbrain](https://github.com/garrytan/gbrain)|Garry's Opinionated OpenClaw/Hermes Agent Brain|[gbrain](https://github.com/garrytan/gbrain)|加里固执己见的 OpenClaw/Hermes 特工大脑|
@@ -32,7 +33,7 @@
 |[x402](https://github.com/x402-foundation/x402)|A payments protocol for the internet. Built on HTTP.|[x402](https://github.com/x402-foundation/x402)|互联网支付协议。基于 HTTP 构建。|
 |[free-proxy-list](https://github.com/proxifly/free-proxy-list)|🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *|[free-proxy-list](https://github.com/proxifly/free-proxy-list)|🚀 免费 HTTP、SOCKS4 和 SOCKS5 代理列表 * 每 5 分钟更新一次 *|
 |[SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used durin...|[SecLists](https://github.com/danielmiessler/SecLists)|SecLists 是安全测试人员的伴侣。它是在...期间使用的多种类型列表的集合。|
-|[memU](https://github.com/NevaMind-AI/memU)|Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).|[memU](https://github.com/NevaMind-AI/memU)|24/7 主动代理的内存，例如 openclaw（moltbot、clawdbot）。|
+|[memU](https://github.com/NevaMind-AI/memU)|Memory for 24/7 proactive agents like OpenClaw.|[memU](https://github.com/NevaMind-AI/memU)|适用于 OpenClaw 等 24/7 主动代理的内存。|
 |[ardupilot](https://github.com/ArduPilot/ardupilot)|ArduPlane, ArduCopter, ArduRover, ArduSub source|[ardupilot](https://github.com/ArduPilot/ardupilot)|ArduPlane、ArduCopter、ArduRover、ArduSub 源|
 |[solana-idl-lib](https://github.com/bitquery/solana-idl-lib)|Solana-Idl-Lib|[solana-idl-lib](https://github.com/bitquery/solana-idl-lib)|Solana-Idl-Lib|
 |[dujiaoka](https://github.com/assimon/dujiaoka)|🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉|[dujiaoka](https://github.com/assimon/dujiaoka)|🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！ 🚀🚀🎉🎉|
@@ -51,7 +52,7 @@
 |[web3-awesome](https://github.com/fltenwall/web3-awesome)|web3百科全书👏🏻 打造 web3 全球第一中文资源|[web3-awesome](https://github.com/fltenwall/web3-awesome)|web3百科全书👏🏻 打造 web3 全球第一中文资源|
 |[remote-jobs](https://github.com/remoteintech/remote-jobs)|Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies|[remote-jobs](https://github.com/remoteintech/remote-jobs)|Remoteintech.company 的来源 — 社区维护的远程友好科技公司目录|
 |[maybe](https://github.com/maybe-finance/maybe)|The personal finance app for everyone|[maybe](https://github.com/maybe-finance/maybe)|适合所有人的个人理财应用程序|
-|[responsively-app](https://github.com/responsively-org/responsively-app)|A modified web browser that helps in responsive web development. A web developer's must have dev-too...|[responsively-app](https://github.com/responsively-org/responsively-app)|一款经过修改的 Web 浏览器，有助于响应式 Web 开发。 Web 开发人员必须具备 dev-too...|
+|[responsively-app](https://github.com/responsively-org/responsively-app)|A modified web browser that helps in responsive web development. A web developer's must have dev-too...|[responsively-app](https://github.com/responsively-org/responsively-app)|修改后的 Web 浏览器有助于响应式 Web 开发。 Web 开发人员必须具备 dev-too...|
 |[invoify](https://github.com/al1abb/invoify)|An invoice generator app built using Next.js, Typescript, and Shadcn|[invoify](https://github.com/al1abb/invoify)|使用 Next.js、Typescript 和 Shadcn 构建的发票生成器应用|
 |[Dork-Admin](https://github.com/ffffffff0x/Dork-Admin)|盘点近年来的数据泄露、供应链污染事件|[Dork-Admin](https://github.com/ffffffff0x/Dork-Admin)|盘点近年来的数据泄露、供应链污染事件|
 |[john](https://github.com/openwall/john)|John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and ciphe...|[john](https://github.com/openwall/john)|John the Ripper jumbo - 先进的离线密码破解器，支持数百种哈希和密码...|
@@ -108,7 +109,7 @@
 |[Amphion](https://github.com/open-mmlab/Amphion)|Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support...|[Amphion](https://github.com/open-mmlab/Amphion)|Amphion (/æmˈfaɪən/) 是一个用于音频、音乐和语音生成的工具包。其目的是支持...|
 |[SoniTranslate](https://github.com/R3gm/SoniTranslate)|Synchronized Translation for Videos. Video dubbing|[SoniTranslate](https://github.com/R3gm/SoniTranslate)|视频同步翻译。视频配音|
 |[OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MIT and MyShell. Audio foundation model.|[OpenVoice](https://github.com/myshell-ai/OpenVoice)|MIT 和 MyShell 的即时语音克隆。音频基础模型。|
-|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-py...|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|精彩的远程工作和资源的精选列表。灵感来自 https://github.com/vinta/awesome-py...|
+|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-py...|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|很棒的远程工作和资源的精选列表。灵感来自 https://github.com/vinta/awesome-py...|
 |[spiritlm](https://github.com/facebookresearch/spiritlm)|Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".|[spiritlm](https://github.com/facebookresearch/spiritlm)|论文“Spirit-LM Interleaved Spoken and Written Language Model”的推理代码。|
 |[deepface](https://github.com/serengil/deepface)|A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library...|[deepface](https://github.com/serengil/deepface)|轻量级人脸识别和面部属性分析（年龄、性别、情绪和种族）库...|
 |[jsonrepair](https://github.com/josdejong/jsonrepair)|Repair invalid JSON documents|[jsonrepair](https://github.com/josdejong/jsonrepair)|修复无效的 JSON 文档|
@@ -125,11 +126,11 @@
 |[TextWordExplain](https://github.com/tonyljx/TextWordExplain)|汉语新解|[TextWordExplain](https://github.com/tonyljx/TextWordExplain)|汉语新解|
 |[nanogl](https://github.com/plepers/nanogl)|webgl micro framework|[nanogl](https://github.com/plepers/nanogl)|webgl微框架|
 |[simple-icons](https://github.com/simple-icons/simple-icons)|SVG icons for popular brands|[simple-icons](https://github.com/simple-icons/simple-icons)|流行品牌的 SVG 图标|
-|[ProPainter](https://github.com/sczhou/ProPainter)|[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting|[ProPainter](https://github.com/sczhou/ProPainter)|[ICCV 2023] ProPainter：改进视频修复的传播和转换器|
+|[ProPainter](https://github.com/sczhou/ProPainter)|[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting|[ProPainter](https://github.com/sczhou/ProPainter)|Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.|
 |[supervision](https://github.com/roboflow/supervision)|We write your reusable computer vision tools. 💜|[supervision](https://github.com/roboflow/supervision)|我们为您编写可重复使用的计算机视觉工具。 💜|
-|[node-canvas](https://github.com/Automattic/node-canvas)|Node canvas is a Cairo backed Canvas implementation for NodeJS.|[node-canvas](https://github.com/Automattic/node-canvas)|Node canvas 是 Cairo 支持的 NodeJS Canvas 实现。|
+|[node-canvas](https://github.com/Automattic/node-canvas)|Node canvas is a Cairo backed Canvas implementation for NodeJS.|[node-canvas](https://github.com/Automattic/node-canvas)|Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.|
 |[streamer-card](https://github.com/ygh3279799773/streamer-card)|流光卡片API|[streamer-card](https://github.com/ygh3279799773/streamer-card)|流光卡片API|
-|[tabler-icons](https://github.com/tabler/tabler-icons)|A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.|[tabler-icons](https://github.com/tabler/tabler-icons)|一组超过 6000 个 MIT 许可的免费高质量 SVG 图标，供您在 Web 项目中使用。|
+|[tabler-icons](https://github.com/tabler/tabler-icons)|A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.|[tabler-icons](https://github.com/tabler/tabler-icons)|Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.|
 |[generate-avatar](https://github.com/loweisz/generate-avatar)|Generate your 100% fingerprinted example avatar from id, email, username etc.|[generate-avatar](https://github.com/loweisz/generate-avatar)|根据 ID、电子邮件、用户名等生成 100% 指纹示例头像。|
 |[aider](https://github.com/Aider-AI/aider)|aider is AI pair programming in your terminal|[aider](https://github.com/Aider-AI/aider)|aider 是您终端中的 AI 结对编程|
 |[jitcompiler](https://github.com/rajkumardusad/jitcompiler)|JIT Compiler is a open source online code compiler. You can run more than 40+ most popular programmi...|[jitcompiler](https://github.com/rajkumardusad/jitcompiler)|JIT Compiler是一个开源的在线代码编译器。您可以运行 40 多个最受欢迎的程序...|
@@ -139,7 +140,7 @@
 |[morphic](https://github.com/miurla/morphic)|An AI-powered search engine with a generative UI|[morphic](https://github.com/miurla/morphic)|具有生成式用户界面的人工智能搜索引擎|
 |[BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel)|Turn your Telegram Channel into a MicroBlog.|[BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel)|将您的 Telegram 频道变成微博。|
 |[not-paid](https://github.com/kleampa/not-paid)|Client did not pay? Add opacity to the body tag and decrease it every day until their site completel...|[not-paid](https://github.com/kleampa/not-paid)|客户没付款？为正文标签添加不透明度并每天减少它，直到他们的网站完成...|
-|[YouDub-webui](https://github.com/liuzhao1225/YouDub-webui)|YouDub-webui: 优质视频中文化工具|[YouDub-webui](https://github.com/liuzhao1225/YouDub-webui)|YouDub-webui: 优质视频中文化工具|
+|[YouDub-webui](https://github.com/liuzhao1225/YouDub-webui)|YouDub WebUI|[YouDub-webui](https://github.com/liuzhao1225/YouDub-webui)|YouDub WebUI|
 |[openui](https://github.com/wandb/openui)|OpenUI let's you describe UI using your imagination, then see it rendered live.|[openui](https://github.com/wandb/openui)|OpenUI 让您可以发挥想象力来描述 UI，然后查看它的实时渲染。|
 |[vanna](https://github.com/vanna-ai/vanna)|🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.|[vanna](https://github.com/vanna-ai/vanna)|🤖 与您的 SQL 数据库聊天 📊。使用代理检索通过法学硕士准确生成文本到 SQL。|
 |[database-build](https://github.com/supabase-community/database-build)|In-browser Postgres sandbox with AI assistance (formerly postgres.new)|[database-build](https://github.com/supabase-community/database-build)|具有 AI 辅助功能的浏览器内 Postgres 沙箱（以前称为 postgres.new）|
@@ -191,9 +192,9 @@
 |[exbert](https://github.com/bhoov/exbert)|A Visual Analysis Tool to Explore Learned Representations in Transformers Models|[exbert](https://github.com/bhoov/exbert)|用于探索 Transformers 模型中学习表示的可视化分析工具|
 |[openpose-editor](https://github.com/fkunn1326/openpose-editor)|Openpose Editor for AUTOMATIC1111's stable-diffusion-webui|[openpose-editor](https://github.com/fkunn1326/openpose-editor)|AUTOMATIC1111 的 stable-diffusion-webui 的 Openpose 编辑器|
 |[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|WebUI extension for ControlNet|[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|ControlNet 的 WebUI 扩展|
-|[stable-diffusion-webui-manuals](https://github.com/ivon852/stable-diffusion-webui-manuals)|Stable Diffusion WebUI中文使用手冊(舊)|[stable-diffusion-webui-manuals](https://github.com/ivon852/stable-diffusion-webui-manuals)|稳定扩散WebUI中文使用手册(旧)|
+|[stable-diffusion-webui-manuals](https://github.com/ivon852/stable-diffusion-webui-manuals)|Stable Diffusion WebUI中文使用手冊(舊)|[stable-diffusion-webui-manuals](https://github.com/ivon852/stable-diffusion-webui-manuals)|稳定扩散 WebUI中文使用手册(旧)|
 |[LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts)|A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy|[LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts)|使用 Pyside6 制作的 UI，使在 sd 脚本中训练 LoRA/LoCon 和其他 LoRA 类型模型变得容易|
-|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic tr...|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|精选的库、包、策略、书籍、博客、系统化教程的列表...|
+|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic tr...|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|精选的库、包、策略、书籍、博客、系统学习教程的列表...|
 |[ChatIE](https://github.com/cocacola-lab/ChatIE)|The online version is temporarily unavailable because we cannot afford the key. You can clone and ru...|[ChatIE](https://github.com/cocacola-lab/ChatIE)|在线版本暂时无法使用，因为我们买不起密钥。您可以克隆并运行...|
 |[WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出备份程序|[WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出备份程序|
 |[bertviz](https://github.com/jessevig/bertviz)|BertViz: Visualize Attention in Transformer Models|[bertviz](https://github.com/jessevig/bertviz)|BertViz：可视化 Transformer 模型中的注意力|
@@ -202,7 +203,7 @@
 |[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained mode...|[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT：开源金融大语言模型！  彻底变革 🔥 我们发布了训练模式...|
 |[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 finetuning with deepspeed and lora|[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 使用 deepspeed 和 lora 进行微调|
 |[llama-cookbook](https://github.com/meta-llama/llama-cookbook)|Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started wit...|[llama-cookbook](https://github.com/meta-llama/llama-cookbook)|欢迎来到骆驼食谱！这是您使用 Llama 进行构建的指南：开始使用...|
-|[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的 Python 异步和事件驱动框架，重点关注加密货币...|
+|[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的 Python 异步和事件驱动框架，重点关注加密货币......|
 |[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq: An All-in-One Library for Developing State-of-the-Art Sequence Understanding Models|[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq：用于开发最先进的序列理解模型的一体化库|
 |[AnimateDiff](https://github.com/guoyww/AnimateDiff)|Official implementation of AnimateDiff.|[AnimateDiff](https://github.com/guoyww/AnimateDiff)|AnimateDiff 的正式实现。|
 |[Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse)|**Professor Synapse 🧙🏾‍♂️**|[Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse)|**突触教授🧙🏾‍♂️**|
@@ -255,10 +256,10 @@
 |[Skip-gram](https://github.com/zhangxiann/Skip-gram)|参数设置|[Skip-gram](https://github.com/zhangxiann/Skip-gram)|参数设置|
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)|The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in ...|[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)|ChatGPT 检索插件可让您通过在...中提出问题来轻松查找个人或工作文档。|
 |[CopilotForXcode](https://github.com/intitni/CopilotForXcode)|The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension|[CopilotForXcode](https://github.com/intitni/CopilotForXcode)|第一个 GitHub Copilot、Codeium 和 ChatGPT Xcode 源编辑器扩展|
-|[awesome-claude](https://github.com/taranjeet/awesome-claude)|An awesome list of AnthropicAI' Claude model|[awesome-claude](https://github.com/taranjeet/awesome-claude)|Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.|
+|[awesome-claude](https://github.com/taranjeet/awesome-claude)|An awesome list of AnthropicAI' Claude model|[awesome-claude](https://github.com/taranjeet/awesome-claude)|AnthropicAI 克劳德模型的精彩列表|
 |[gpt-3](https://github.com/openai/gpt-3)|GPT-3: Language Models are Few-Shot Learners|[gpt-3](https://github.com/openai/gpt-3)|GPT-3：语言模型是小样本学习者|
-|[DALL-E](https://github.com/openai/DALL-E)|PyTorch package for the discrete VAE used for DALL·E.|[DALL-E](https://github.com/openai/DALL-E)|Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.|
-|[openai-cookbook](https://github.com/openai/openai-cookbook)|Examples and guides for using the OpenAI API|[openai-cookbook](https://github.com/openai/openai-cookbook)|Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.|
+|[DALL-E](https://github.com/openai/DALL-E)|PyTorch package for the discrete VAE used for DALL·E.|[DALL-E](https://github.com/openai/DALL-E)|用于 DALL·E 的离散 VAE 的 PyTorch 软件包。|
+|[openai-cookbook](https://github.com/openai/openai-cookbook)|Examples and guides for using the OpenAI API|[openai-cookbook](https://github.com/openai/openai-cookbook)|使用 OpenAI API 的示例和指南|
 |[gpt-2](https://github.com/openai/gpt-2)|Code for the paper "Language Models are Unsupervised Multitask Learners"|[gpt-2](https://github.com/openai/gpt-2)|论文“语言模型是无监督多任务学习者”的代码|
 |[gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset)|Dataset of GPT-2 outputs for research in detection, biases, and more|[gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset)|用于检测、偏差等研究的 GPT-2 输出数据集|
 |[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)|A topic-centric list of HQ open datasets.|[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)|以主题为中心的总部开放数据集列表。|
