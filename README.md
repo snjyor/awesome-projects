@@ -139,7 +139,7 @@
 |[1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)|1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。|[1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)|1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。|
 |[tradingbot](https://github.com/toupaiwang/tradingbot)|Solana Trading Bot for Telegram|[tradingbot](https://github.com/toupaiwang/tradingbot)|Solana Trading Bot for Telegram|
 |[zerox](https://github.com/getomni-ai/zerox)|OCR & Document Extraction using vision models|[zerox](https://github.com/getomni-ai/zerox)|OCR & Document Extraction using vision models|
-|[Pake](https://github.com/tw93/Pake)|🤱🏻 Turn any website into a tiny, fast desktop app.|[Pake](https://github.com/tw93/Pake)|🤱🏻 Turn any website into a tiny, fast desktop app.|
+|[Pake](https://github.com/tw93/Pake)|Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.|[Pake](https://github.com/tw93/Pake)|Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.|
 |[next-auth](https://github.com/nextauthjs/next-auth)|Authentication for the Web.|[next-auth](https://github.com/nextauthjs/next-auth)|Authentication for the Web.|
 |[pdf-to-podcast](https://github.com/knowsuchagency/pdf-to-podcast)|Convert any PDF into a podcast episode!|[pdf-to-podcast](https://github.com/knowsuchagency/pdf-to-podcast)|Convert any PDF into a podcast episode!|
 |[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)|[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)|
